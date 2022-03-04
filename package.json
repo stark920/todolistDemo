@@ -1,0 +1,17 @@
+{
+  "name": "todolist-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
